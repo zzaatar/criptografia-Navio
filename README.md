@@ -88,9 +88,7 @@ Byte 16: 00000011 → 01010000 → 80 → 'P'
 ```
 
 ### Mensagem Descriptografada
-```
-REVERSE AND SWAP
-```
+```YOU ARE AWESOME```
 
 ## Como Executar o Código C++
 
